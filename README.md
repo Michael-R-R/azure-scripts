@@ -1,2 +1,3 @@
 # azure-scripts
-Python scripts to automate Azure
+
+General purpose Azure scripts to be referenced
